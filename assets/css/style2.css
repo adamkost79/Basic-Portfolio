@@ -11,7 +11,6 @@ body {
     border-bottom: thin solid;
     border-bottom-color: lightgray;
     font-family: 'Georgia', Times, Times New Roman, serif;
-    width: 975px;
     
 }
 
@@ -26,9 +25,13 @@ body {
 
 #navbar { 
     float: right;
-    padding-top: 20px;
+    width: 200px;
+    height: 25px;
+    margin-top: 30px;
+    margin-right: 210px;
     color: gray;
     font-size: 15px;
+    margin-right: 148;
 }
 
 .contact { 
@@ -36,7 +39,7 @@ float: right;
     width: 180px;
     height: 100px;
     padding: 50px;
-    margin-right: 50px;
+    margin-right: 149px;
     margin-top: 10px; 
     background-color: white;
     
@@ -97,12 +100,9 @@ p {
     padding: 10px
 }
 
-hr {
-    background-color: 4aaaa5;
-}
+
 .footer {
     clear: both;
-    margin-bottom: 10px;
     margin-top: 200px;
     background-color:dimgray;
     padding: 25px;
@@ -176,9 +176,11 @@ form2 {
     z-index: 1;
     width: 200px;
     height: 50px;
-    margin-top: -90px; 
-    font-size: 10px;
+    margin-top: -120px; 
+    font-size: 8px;
     text-align: center;
     background-color: #4aaaa5;
+    color: white;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
