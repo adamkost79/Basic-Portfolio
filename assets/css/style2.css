@@ -1,0 +1,184 @@
+body { 
+
+    margin: auto;
+    background-image: url(../images/white_wall.png);
+}
+
+
+.header { 
+    
+    height: 68px;
+    border-bottom: thin solid;
+    border-bottom-color: lightgray;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    width: 975px;
+    
+}
+
+#name {
+    background-color: #4aaaa5;
+    color: white;
+    float: left;
+    padding: 20px 25px 20px 25px;
+    margin-left: 58px;
+    font-size: 25px;
+}
+
+#navbar { 
+    float: right;
+    padding-top: 20px;
+    color: gray;
+    font-size: 15px;
+}
+
+.contact { 
+float: right;
+    width: 180px;
+    height: 100px;
+    padding: 50px;
+    margin-right: 50px;
+    margin-top: 10px; 
+    background-color: white;
+    
+} 
+
+.connect { 
+    color: #4aaaa5;
+    width: 180px;
+    text-align: center;
+    margin-top: -25px;
+    margin-right: 500px;
+    border-bottom: thin solid;
+    border-bottom-color: lightgrey;
+    text-emphasis: bold;
+}
+
+.thumbbox {
+    width: 170px;
+    margin-right: 20px;  
+    align-items: center;
+    margin: 20px;
+    
+}
+#about {
+    background-color: white;
+    width: 650px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-weight: bold;
+    
+}
+
+#aboutbox { margin: 10px 20px 10px 20px;
+    
+}
+
+#heading {
+
+    margin-left: 50px;
+    color: #4aaaa5;
+    border-bottom: medium solid;
+    border-bottom-color:lightgray;
+    padding: 25px;
+    font-size: 20px
+    
+
+}
+
+#profilepic { 
+    margin-left: 40px;
+    float: left;
+    border-color: aliceblue thin 5px;
+    padding: 10px;
+    
+}
+
+p { 
+    margin-left: 50px; 
+    padding: 10px
+}
+
+hr {
+    background-color: 4aaaa5;
+}
+.footer {
+    clear: both;
+    margin-bottom: 10px;
+    margin-top: 200px;
+    background-color:dimgray;
+    padding: 25px;
+    text-align: center;
+    font-size: 10px;
+    color: lightgrey;
+    border-top: thick solid #4aaaa6
+}
+
+#formbox {
+    background-color: white;
+    margin-top: 10px;
+    margin-right: 50px;
+    width: 650px;
+    height: 500px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    
+
+}
+
+#formtitle {
+margin-left: 50px;
+    color: #4aaaa5;
+    border-bottom: medium solid;
+    border-bottom-color:lightgray;
+    padding: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 30px
+}
+
+form {
+    margin-left: 52px;
+    color: darkgray;
+    margin-bottom: 15px;
+}
+
+button { 
+    margin-left: 50px;
+    margin-top: 10px;
+    background-color: #4aaaa5;
+    color: white;
+
+}
+input {
+width: 560px}
+ 
+form2 {
+    margin-left: 52px;
+    color: darkgray;
+
+}
+
+#portbox {
+    background-color: white;
+    width: 620px;
+    height: 800px;
+    margin-top: 10px;
+    margin-left: 50px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-weight: bold; 
+}
+
+.photos {
+    float: left; 
+    margin: 20px;
+    margin-left: 70px
+}
+.portlabel {
+    position: relative;
+    z-index: 1;
+    width: 200px;
+    height: 50px;
+    margin-top: -90px; 
+    font-size: 10px;
+    text-align: center;
+    background-color: #4aaaa5;
+}
+
